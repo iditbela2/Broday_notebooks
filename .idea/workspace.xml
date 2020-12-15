@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="289f0e9e-c153-4d5e-923e-9567f0b5b2d6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PM25_Omri.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/X_missing_test_set_fix_ASH.pkl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/final_imputed_ii_RF_1_90_most_frequent" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/final_imputed_my_KNN_add1_15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imputed_ii_RF_1_90_most_frequent" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imputed_ii_RF_add1_1_40_most_frequent" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imputed_my_KNN_15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imputed_my_KNN_add1_15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/r_PM25_y_mask.pkl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/r_PM25_y_mask_fix_ASH.pkl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results_df.pkl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results_ii_RF_1_90_most_frequent" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results_ii_RF_add1_1_40_most_frequent" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results_my_KNN_15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results_my_KNN_add1_15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/y_missing_test_set_fix_ASH.pkl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hyperOpt_trials_iiRF_100.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/k_trials_stKNN_AFULA.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/num_iters_iiRF_20.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/num_iters_iiRF_5.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/num_iters_iiRF_None.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/properly_written.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/X_missing_test_set.pkl" afterPath="$PROJECT_DIR$/X_missing_test_set.pkl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/y_missing_test_set.pkl" afterPath="$PROJECT_DIR$/y_missing_test_set.pkl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/properly_written-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/properly_written-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hyperOpt_trials_iiRF.csv" afterPath="$PROJECT_DIR$/hyperOpt_trials_iiRF.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/properly_written.ipynb" afterPath="$PROJECT_DIR$/properly_written.ipynb" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="289f0e9e-c153-4d5e-923e-9567f0b5b2d6" name="Default" comment="" />
+      <created>1607936891887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607936891887</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25751072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43606138" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/properly_written.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
