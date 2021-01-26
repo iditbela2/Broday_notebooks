@@ -2,33 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="289f0e9e-c153-4d5e-923e-9567f0b5b2d6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PM25_Omri.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/X_missing_test_set_fix_ASH.pkl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/final_imputed_ii_RF_1_90_most_frequent" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/final_imputed_my_KNN_add1_15" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imputed_ii_RF_1_90_most_frequent" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imputed_ii_RF_add1_1_40_most_frequent" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imputed_my_KNN_15" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imputed_my_KNN_add1_15" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/r_PM25_y_mask.pkl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/r_PM25_y_mask_fix_ASH.pkl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results_df.pkl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results_ii_RF_1_90_most_frequent" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results_ii_RF_add1_1_40_most_frequent" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results_my_KNN_15" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/results_my_KNN_add1_15" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/y_missing_test_set_fix_ASH.pkl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hyperOpt_trials_iiRF_100.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/k_trials_stKNN_AFULA.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/num_iters_iiRF_20.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/num_iters_iiRF_5.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/num_iters_iiRF_None.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/properly_written.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/X_missing_test_set.pkl" afterPath="$PROJECT_DIR$/X_missing_test_set.pkl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/y_missing_test_set.pkl" afterPath="$PROJECT_DIR$/y_missing_test_set.pkl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/properly_written-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/properly_written-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hyperOpt_trials_iiRF.csv" afterPath="$PROJECT_DIR$/hyperOpt_trials_iiRF.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/properly_written.ipynb" afterPath="$PROJECT_DIR$/properly_written.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/FA_from_R_&amp;_ICA_NMF_QUANTIFICATION-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/FA_from_R_&amp;_ICA_NMF_QUANTIFICATION-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/creating_mega_df_locally-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/creating_mega_df_locally-checkpoint.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FA_from_R_&amp;_ICA_NMF_QUANTIFICATION.ipynb" afterPath="$PROJECT_DIR$/FA_from_R_&amp;_ICA_NMF_QUANTIFICATION.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/creating_mega_df_locally.ipynb" afterPath="$PROJECT_DIR$/creating_mega_df_locally.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maps.ipynb" afterPath="$PROJECT_DIR$/maps.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,9 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+    <option name="y" value="203" />
     <option name="width" value="1440" />
-    <option name="height" value="873" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
